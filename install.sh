@@ -1,5 +1,5 @@
 #!/bin/sh
-xbps-install sway Waybar wofi wpgt pipewire zsh seatd
+xbps-install sway Waybar wofi wpgt pipewire zsh seatd mesa-dri
 ln -s /etc/sv/seatd/ /var/services/
 sv up seatd
 
