@@ -1,2 +1,2 @@
 # Dotfiles
-My dotfiles
+Run install.sh to automatically setup 
