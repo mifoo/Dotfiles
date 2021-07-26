@@ -12,4 +12,6 @@ mkdir /home/albin/.config/
 ln -sb config/* /home/albin/.config/
 ln -sb .zshrc /home/albin/.zshrc
 
+sleep 10
+
 reboot
