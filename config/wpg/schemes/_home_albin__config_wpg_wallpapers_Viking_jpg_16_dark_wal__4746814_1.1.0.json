@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/albin/.config/wpg/wallpapers/Viking.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04040c",
+        "foreground": "#c0c0c2",
+        "cursor": "#c0c0c2"
+    },
+    "colors": {
+        "color0": "#04040c",
+        "color1": "#4e5595",
+        "color2": "#694e84",
+        "color3": "#665997",
+        "color4": "#137899",
+        "color5": "#3b6997",
+        "color6": "#00a89e",
+        "color7": "#818185",
+        "color8": "#424248",
+        "color9": "#6872C7",
+        "color10": "#8C68B0",
+        "color11": "#8977CA",
+        "color12": "#1AA1CC",
+        "color13": "#4F8DCA",
+        "color14": "#01E0D3",
+        "color15": "#c0c0c2"
+    }
+}

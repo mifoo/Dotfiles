@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/albin/.config/wpg/wallpapers/apocolorpse-sic-2560\u00d71440.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#08080b",
+        "foreground": "#c1c1c2",
+        "cursor": "#c1c1c2"
+    },
+    "colors": {
+        "color0": "#08080b",
+        "color1": "#73160e",
+        "color2": "#a41b02",
+        "color3": "#7e3816",
+        "color4": "#b64300",
+        "color5": "#09895c",
+        "color6": "#b97502",
+        "color7": "#838385",
+        "color8": "#454548",
+        "color9": "#9A1E13",
+        "color10": "#DB2503",
+        "color11": "#A84B1E",
+        "color12": "#F35A01",
+        "color13": "#0CB77B",
+        "color14": "#F79C03",
+        "color15": "#c1c1c2"
+    }
+}

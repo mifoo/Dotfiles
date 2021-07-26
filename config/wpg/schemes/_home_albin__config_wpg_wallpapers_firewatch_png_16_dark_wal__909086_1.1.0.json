@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/albin/.config/wpg/wallpapers/firewatch.png",
+    "alpha": "100",
+    "special": {
+        "background": "#03070c",
+        "foreground": "#c0c1c2",
+        "cursor": "#c0c1c2"
+    },
+    "colors": {
+        "color0": "#03070c",
+        "color1": "#536684",
+        "color2": "#486a9e",
+        "color3": "#6c7687",
+        "color4": "#6680a6",
+        "color5": "#8596af",
+        "color6": "#98a3b5",
+        "color7": "#818385",
+        "color8": "#424548",
+        "color9": "#6F89B0",
+        "color10": "#618ED3",
+        "color11": "#909EB4",
+        "color12": "#88ABDE",
+        "color13": "#B2C8EA",
+        "color14": "#CBDAF2",
+        "color15": "#c0c1c2"
+    }
+}

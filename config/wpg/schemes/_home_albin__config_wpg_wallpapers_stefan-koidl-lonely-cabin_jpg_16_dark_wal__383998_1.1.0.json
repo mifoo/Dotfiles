@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/albin/.config/wpg/wallpapers/stefan-koidl-lonely-cabin.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080709",
+        "foreground": "#c1c1c1",
+        "cursor": "#c1c1c1"
+    },
+    "colors": {
+        "color0": "#080709",
+        "color1": "#334566",
+        "color2": "#374d6f",
+        "color3": "#4c5b75",
+        "color4": "#3e597e",
+        "color5": "#426087",
+        "color6": "#4a698b",
+        "color7": "#838384",
+        "color8": "#454546",
+        "color9": "#445C88",
+        "color10": "#4A6795",
+        "color11": "#667A9C",
+        "color12": "#5377A9",
+        "color13": "#5981B4",
+        "color14": "#638CBA",
+        "color15": "#c1c1c1"
+    }
+}

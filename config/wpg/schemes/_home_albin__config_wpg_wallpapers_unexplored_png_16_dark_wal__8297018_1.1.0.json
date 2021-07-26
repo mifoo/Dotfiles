@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/albin/.config/wpg/wallpapers/unexplored.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0109",
+        "foreground": "#c2bfc1",
+        "cursor": "#c2bfc1"
+    },
+    "colors": {
+        "color0": "#0c0109",
+        "color1": "#b5763d",
+        "color2": "#ae8f3f",
+        "color3": "#4e3f83",
+        "color4": "#794d83",
+        "color5": "#4d70aa",
+        "color6": "#727aae",
+        "color7": "#858084",
+        "color8": "#484046",
+        "color9": "#F29E52",
+        "color10": "#E8BF55",
+        "color11": "#6955AF",
+        "color12": "#A267AF",
+        "color13": "#6796E3",
+        "color14": "#99A3E8",
+        "color15": "#c2bfc1"
+    }
+}

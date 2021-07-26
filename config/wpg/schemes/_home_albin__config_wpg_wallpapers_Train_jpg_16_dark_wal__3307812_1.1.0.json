@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/albin/.config/wpg/wallpapers/Train.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080808",
+        "foreground": "#c1c1c1",
+        "cursor": "#c1c1c1"
+    },
+    "colors": {
+        "color0": "#080808",
+        "color1": "#786a53",
+        "color2": "#a58a40",
+        "color3": "#4a576f",
+        "color4": "#837a6a",
+        "color5": "#968975",
+        "color6": "#b1a27d",
+        "color7": "#838383",
+        "color8": "#454545",
+        "color9": "#A08E6F",
+        "color10": "#DDB956",
+        "color11": "#637595",
+        "color12": "#AFA38E",
+        "color13": "#C9B79C",
+        "color14": "#EDD9A7",
+        "color15": "#c1c1c1"
+    }
+}

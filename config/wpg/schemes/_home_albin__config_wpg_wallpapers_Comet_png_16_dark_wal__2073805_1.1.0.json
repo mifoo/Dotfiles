@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/albin/.config/wpg/wallpapers/Comet.png",
+    "alpha": "100",
+    "special": {
+        "background": "#02030d",
+        "foreground": "#bfc0c2",
+        "cursor": "#bfc0c2"
+    },
+    "colors": {
+        "color0": "#02030d",
+        "color1": "#233557",
+        "color2": "#79363d",
+        "color3": "#ae4543",
+        "color4": "#1e426c",
+        "color5": "#435276",
+        "color6": "#005d92",
+        "color7": "#808186",
+        "color8": "#414249",
+        "color9": "#2F4775",
+        "color10": "#A24952",
+        "color11": "#E85D5A",
+        "color12": "#295890",
+        "color13": "#5A6E9E",
+        "color14": "#007CC3",
+        "color15": "#bfc0c2"
+    }
+}
