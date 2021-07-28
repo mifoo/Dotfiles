@@ -8,7 +8,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 sh -c "$(curl -fsSL https://starship.rs/install.sh)"
 
 ./install
-
+wpg-install.sh -gi
 sleep 10
 
 reboot
