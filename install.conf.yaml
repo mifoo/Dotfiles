@@ -21,6 +21,10 @@
 
       path: config/*
 
+    ~/.config/pywal.sh:
+
+      path: pywal.sh
+
 - create:
 
     - ~/Downloads
