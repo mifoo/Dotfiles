@@ -1,5 +1,5 @@
 #!/bin/sh
-xbps-install sway Waybar wofi wpgt pipewire zsh seatd mesa-dri kitty neofetch
+xbps-install sway Waybar wofi wpgt pipewire zsh seatd mesa-dri kitty neofetch vscode steam 
 ln -s /etc/sv/seatd/ /var/service/
 sv up seatd
 
